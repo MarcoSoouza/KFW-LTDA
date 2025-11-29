@@ -1,8 +1,6 @@
-# TODO for Professional Design Improvements
+# TODO for Enhancing index.html and Home.css
 
-- [x] Update color scheme to a more professional corporate palette
-- [x] Enhance typography with better font weights and hierarchy
-- [x] Improve card design with modern shadows and borders
-- [x] Add subtle professional animations and transitions
-- [x] Optimize layout for better responsiveness
-- [ ] Test the updated professional design
+- [x] Reorganize index.html: Adjust section order for better flow (e.g., move hero after header, add subheadings in about section).
+- [x] Enhance Home.css: Update colors, spacing, animations, and responsiveness for a top design.
+- [x] Test changes in browser to ensure no issues.
+- [x] Improve "Sobre a KFW" section design: Add a gallery of images for modern mining equipment.
